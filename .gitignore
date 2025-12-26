@@ -108,3 +108,6 @@ build-release/
 bin/
 .idea/
 build/
+
+*.csv
+test*.py
